@@ -31,7 +31,7 @@
         }
     },
     "variables": {
-        "imageId": "[resourceId(/subscriptions/3d49a8e4-6680-4dad-a36d-f557ea620a61/resourceGroups/cn-fw3-rg/providers/Microsoft.Compute/images/sophosxg-v18_0_mr5)]"
+        "imageId": "[resourceId(cn-fw3-rg/providers/Microsoft.Compute/images/sophosxg-v18_0_mr5)]"
     },
     "resources": [
         {
