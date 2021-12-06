@@ -31,7 +31,7 @@
         }
     },
     "variables": {
-        "imageId": "[resourceID('Microsoft.Compute/images', 'sophosxg-v18_0_mr5')]",
+        "imageId": "[resourceID('Microsoft.Compute/images', 'sophosxg-v18_0_mr5_cn2')]",
         "adminUsername" : "azureuser"
     },
     "resources": [
